@@ -1,0 +1,51 @@
+baseURL = "https://marcelmue.github.io/"
+languageCode = "en-us"
+title = "Marcel"
+theme="archie"
+copyright = "© MarcelMue"
+
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate=3 # articles per page
+
+[params]
+	mode="auto" # color-mode → light,dark or auto
+	featherIconsCDN=true
+	subtitle = "My personal space."
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/MarcelMue"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/muemarcel/"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "Talks"
+url = "/talks"
+weight = 3
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 4
