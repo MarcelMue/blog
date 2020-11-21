@@ -46,6 +46,6 @@ url = "/talks"
 weight = 3
 
 [[menu.main]]
-name = "All posts"
-url = "/posts"
+name = "Art"
+url = "/art"
 weight = 4
