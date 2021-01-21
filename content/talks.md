@@ -5,6 +5,10 @@ date: 2020-11-21
 
 This is a list of talks I have given at various (online) conferences & webinars.
 
+### Unser Weg zur Cluster-API
+Conference: [ContainerConf Kubernetes Experts Day](https://www.containerconf.de/kubernetes_2.php)\
+Abstract: [Backup]({{< ref "/abstracts/kubernetes-experts-day-2021.md" >}} "Backup")\
+Recording: No public video :(
 ### How we clean up our murders - postmortems
 Conference: [Software Circus](https://www.softwarecircus.io/)\
 Abstract: [Backup]({{< ref "/abstracts/software-circus-2020.md" >}} "Backup")\
